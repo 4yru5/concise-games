@@ -1,0 +1,9 @@
+{
+  "name": "0x Snake — Concise Games",
+  "short_name": "0x Snake",
+  "description": "A tiny offline snake game built from zeros and Xs.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101510",
+  "theme_color": "#101510"
+}
